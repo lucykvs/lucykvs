@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Lucy 👋
+
+I am a recent Chemical Engineering graduate and current Computer Science student at UBC. Just getting started on personal projects and Github!
+
+- ⚡ Pronouns: She/Her/Hers
+- Fun fact: I was a varsity rower throughout my first degree 😄
+
 
 <!--
 **lucykvs/lucykvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
