@@ -3,7 +3,7 @@
 I am a recent Chemical Engineering graduate and current Computer Science student at UBC. Just getting started on personal projects and Github!
 
 - ⚡ Pronouns: She/Her/Hers
-- Fun fact: I was a varsity rower throughout my first degree, and have raced for Canada :maple_leaf: 😄
+- Fun fact: I was a varsity rower throughout my first degree, and have raced for Canada :maple_leaf:
 
 
 <!--
