@@ -2,7 +2,7 @@
 
 Chemical Engineering grad turned Computer Science student at UBC. Looking to learn as much as I can in my new field.
 
-- ⚡ Pronouns: She/Her/Hers
+- ⚡ She/Her/Hers
 - 👯 I’m looking to collaborate on projects - hit me up if you're looking for an enthusiastic member to add to your team!
 - :maple_leaf: Fun fact: I was a varsity rower throughout my first degree, and have raced for Canada
 
