@@ -1,9 +1,9 @@
 ### Hi there, I'm Lucy 👋
 
-Chemical Engineering grad turned Computer Science student at UBC.
+I have a combined background in Chemical Engineering and Computer Science. I work as a technical analyst and software developer in the Engineering Systems space.
 
 - ⚡ She/Her/Hers
-- 👯 Always looking to collaborate on projects - hit me up if you're looking for an enthusiastic member to add to your team!
+- 👯 Always looking to collaborate on side projects - hit me up if you're looking for an enthusiastic member to add to your team!
 
 
 <!--
